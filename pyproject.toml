@@ -2,7 +2,7 @@
 name = "pepkio-journal-club-shuffle"
 version = "0.1.0"
 description = "Python client for Pepkio journal-club-shuffle tool"
-readme = "README.md"
+readme = "README_PYPI.md"
 authors = [
     { name = "Pepkio Team", email = "support@pepkio.com" }
 ]
