@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 from .client import PepkioClient
 from .config import DEFAULT_API_BASE_URL
 from .exceptions import PepkioAPIError, PepkioAuthError, PepkioError, PepkioNotFoundError
